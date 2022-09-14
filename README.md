@@ -2,6 +2,8 @@
 
 ### A Android Developer from Istanbul/Turkey
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkedursunoglu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I am actively working as a native Android Development in Java and Kotlin languages.
 
