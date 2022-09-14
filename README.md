@@ -1,5 +1,7 @@
 # Hi 👋, I'm Berke
 
+### A Android Developer from Istanbul/Turkey
+
 <!--
 **berkedursunoglu/berkedursunoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
