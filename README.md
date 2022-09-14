@@ -6,7 +6,8 @@
 I am actively working as a native Android Development in Java and Kotlin languages.
 
 
-- **You can find me through these communication channels.**
+**You can find me through these communication channels.**
+
 - [LinkedIn](https://www.linkedin.com/in/berkedursunoglu/)
 - [Instgram](https://www.instgram.com/berkedrsnn)
 - [Discord](https://www.discordapp.com/users/KOFUNNN#5689)
