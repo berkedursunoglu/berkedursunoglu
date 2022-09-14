@@ -5,6 +5,8 @@
 
 I am actively working as a native Android Development in Java and Kotlin languages.
 
+I decided to continue in the software industry, which I have been involved with since I was young, as an Android Developer. I continue to develop and develop projects with determination and determination on this path.
+
 
 **You can find me through these communication channels.**
 
