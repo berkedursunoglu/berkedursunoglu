@@ -7,9 +7,9 @@ I am actively working as a native Android Development in Java and Kotlin languag
 
 
 **You can find me through these communication channels.**
-[LinkedIn](https://www.linkedin.com/in/berkedursunoglu/)
-[Instgram](https://www.instgram.com/berkedrsnn)
-[Discord](https://www.discordapp.com/users/KOFUNNN#5689)
+-[LinkedIn](https://www.linkedin.com/in/berkedursunoglu/)
+-[Instgram](https://www.instgram.com/berkedrsnn)
+-[Discord](https://www.discordapp.com/users/KOFUNNN#5689)
 
 <!--
 **berkedursunoglu/berkedursunoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
